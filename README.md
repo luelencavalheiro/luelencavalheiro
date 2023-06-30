@@ -1,6 +1,5 @@
 ### Hey, you!  👋
 
-🌱 I’m currently learning about Front-end. on Digital Innovation One. 
 
 🎓 My background is in Marketing, I have a degree in Publicity and Advertising at Estácio de Sá. 
 
