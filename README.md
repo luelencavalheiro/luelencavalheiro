@@ -6,7 +6,9 @@
 
 ✈️ Em 2022, resolvi arriscar: minha casa virou o mundo (temporariamente)! Viajei pelo nordeste em Fevereiro e em Março, embarquei para Londres onde fiz intercâmbio. Depois do fim do intercâmbio, fiquei na Europa até Agosto treinando meu inglês e conhecendo o continente. 🇬🇧 🇮🇹 🇫🇷
 
-👩‍💻 Atualmente moro em Campinas/SP e agora, senti que chegou a hora de embarcar em uma nova aventura: a programação. Sempre fui curiosa e estudei de forma autoditada, mas sinto que chegou a hora de seguir um caminho mais direcionado.
+👩‍💻 Atualmente moro em Campinas/SP e agora, senti que chegou a hora de embarcar em uma nova aventura: a programação. Sempre fui curiosa e estudei de forma autoditada. 
+
+Agora sou estudante na Cubos Academy e Ada Tech, com foco em back-end.
 
 
 <!--
